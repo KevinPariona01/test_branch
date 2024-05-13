@@ -12,6 +12,11 @@ function sumar (a, b) {
 function dividr (a, b) {
     return a / b;
 }
+
+function potencia (a, b) {
+    return a  * b * b;
+}
+
 // Función para multiplicar dos números
 function multiplicar(a, b) {
     return a * b;
