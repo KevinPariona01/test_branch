@@ -1,5 +1,6 @@
 // Función para sumar dos números
 //CAMBIO DESDE EL GIT
+//CAMBIO DESDE EL GIT 2
 function sumar(a, b) {
     return a + b;
 }
