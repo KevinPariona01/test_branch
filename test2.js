@@ -5,10 +5,13 @@ function restar(a, b) {
     return a - b;
 }
 
+function sumar (a, b) {
+    return a + b;
+}
+
 function dividr (a, b) {
     return a / b;
 }
-
 // Función para multiplicar dos números
 function multiplicar(a, b) {
     return a * b;
