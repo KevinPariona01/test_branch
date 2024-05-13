@@ -9,7 +9,6 @@ function restar(a, b) {
 }
 
 // Función para multiplicar dos números
-//CAMBIO 1
 function multiplicar(a, b) {
     return a * b;
 }
