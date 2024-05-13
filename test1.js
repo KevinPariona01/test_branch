@@ -22,7 +22,7 @@ function dividir(a, b) {
         return "Error: No se puede dividir por cero";
     }
 }
-
+//CAMBIO DESDE EL VS CODE
 // Función principal para manejar las operaciones
 function calcular() {
     let num1 = parseFloat(prompt("Ingrese el primer número:"));
